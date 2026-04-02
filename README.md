@@ -327,6 +327,6 @@ This project is created for educational and assessment purposes.
 
 ---
 
-**Live Demo:** [Add your deployment link here]
+**Live Demo:** https://financedashboard264.netlify.app/
 
 **Repository:** [Add your GitHub repo link here]
