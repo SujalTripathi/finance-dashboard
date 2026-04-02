@@ -329,4 +329,4 @@ This project is created for educational and assessment purposes.
 
 **Live Demo:** https://financedashboard264.netlify.app/
 
-**Repository:** [Add your GitHub repo link here]
+**Repository:** https://github.com/SujalTripathi/finance-dashboard
